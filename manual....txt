@@ -1,0 +1,8 @@
+key 1 : move
+key 2 : add move (use mana)
+key 5 : turn over
+enter : check
+left key : go left screen
+right key : go right screen
+
+과거 친구가 기획하고 제작하다 만 게임입니다..

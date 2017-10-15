@@ -1,0 +1,9 @@
+class messageManager:
+    def __init__(self):
+        pass
+
+    def listen(self,message,actor):
+        pass
+
+    def send(self,message,parameter):
+        pass

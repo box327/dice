@@ -1,0 +1,20 @@
+1	100	10	mana	0
+1	100	10	mana	1
+1	100	10	mana	2
+1	100	10	mana	3
+1	100	2	mana	4
+1	100	1	mana	5
+50	100	20	mana	4
+75	100	20	mana	5
+1	50	20	battle	wolf
+1	100	5	battle	boom
+1	100	5	battle	bee
+1	100	5	battle	ice
+75	100	20	battle	dragon
+50	75	20	battle	tiger
+1	100	5	move	push	10
+1	100	5	move	portal	10
+1	100	5	trap	poison	10
+1	100	5	trap	atomic
+1	100	5	trap	overLoad
+1	100	5	heal	20
